@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Lehoczky"
+  given-names: "Mark"
+  orcid: "https://orcid.org/0000-0002-8666-1568"
+title: "Who Wants to Be a Millionaire"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-11-22
+url: "https://github.com/MarkLehoczky/Who-Wants-to-Be-a-Millionaire"
